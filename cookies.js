@@ -1,6 +1,7 @@
 /**
  * This script is simple JavaScript operations on cookies, you can remove, add, and find item from cookie.
  * This script can be used as Javascript API or as Jquery plugin (if jquery exists in your project);
+ * Find the project on https://github.com/amughrabi/cookies.js
  * @class cookies
  * @author Ahmad Al Mughrabi
  * @copyright Ahmad Al Mughrabi 2015
